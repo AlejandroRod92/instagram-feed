@@ -1,0 +1,47 @@
+body {
+    margin: 0%;
+    background-color: gray;
+}
+.contenedor {
+    background-color: gray;
+}
+.superior {
+    background-color: white;
+    
+}
+.titulo {
+    text-align: center;
+    margin: 0px 0px 0px 0px; 
+}
+.top {
+    display: flex;
+    background-color: white;
+    margin: 80px 743px 0px 743px
+}
+.subt {
+   
+    margin: 10px 200px 10px 10px;
+    text-align: left;
+}
+.num {
+   
+    text-align: end;
+    margin: 10px 10px 10px 0px;
+    color: gray;
+}
+.ima {
+    display: flex;
+    justify-content: center;
+}
+.imagen {
+    width: 416px;
+    height: 450px;
+}
+.bot {
+    display: flex;
+    background-color: white;
+    margin: 0px 743px 0px 743px;
+}
+.tex {
+    padding: 10px 10px 10px 10px ;
+}
